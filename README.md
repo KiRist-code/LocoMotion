@@ -1,3 +1,3 @@
 # LocoMotion
-  LocoMotion is linked with IoT Service to detect who is walking
+  LocoMotion is android app to detect who is walking
 
