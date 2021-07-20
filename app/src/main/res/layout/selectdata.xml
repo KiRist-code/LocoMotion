@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.aflak.bluetoothterminal.selectData"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp"
+    android:background="@android:color/black"
+    >
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:text="Pairing. . ."
+        android:textColor="@android:color/white"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <Button
+        android:id="@+id/stopBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="걸음 멈춤"
+        android:background="@drawable/bg_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        />
+
+    <Button
+        android:id="@+id/result"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/bg_btn"
+        android:text="결과값 보기" />
+    <!--         plz disable this btn func -->
+
+</RelativeLayout>
