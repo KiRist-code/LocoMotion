@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/KiRist-code/LocoMotion/blob/master/LOCOMOTION-logo-white.png" width="400"></p>
+<p align="center"><a href="https://github.com/KiRist-code/LocoMotion" target="_blank"><img src="https://github.com/KiRist-code/LocoMotion/blob/master/LOCOMOTION-logo-white.png" width="400"></a></p>
 
 # LocoMotion
   LocoMotion is android app to detect who is walking
